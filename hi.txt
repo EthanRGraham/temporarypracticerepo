@@ -1,0 +1,2 @@
+Hello!
+after pressing'I' you now are in insert mode and can type like normal
